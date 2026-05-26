@@ -12,4 +12,4 @@ As a Junior Data Analyst, your responsibility is to:
 •Provide actionable recommendations to improve revenue and operational efficiency
 
 ## VISUALIZATION
-![](Gracespacelogo.jpg.jpeg)
+![](TOYSTOREDASHBOARD.jpg)
