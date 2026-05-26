@@ -53,18 +53,18 @@ Each product moves roughly 5,000 units (16–17% share each). Combined with flat
 
 #  Risks to Watch
 
-⚠ June's ₦24.3M is the lowest month — if this is the start of a downward trend rather than a seasonal dip, it needs immediate attention.
-⚠ Over-dependence on the Figures category — 1 in 3 revenue naira comes from a single category.
-⚠ No product differentiation makes the brand vulnerable if a competitor targets any single category.
-⚠ Dataset covers Jan–Jun 2024 only — a full-year view would strengthen these findings.
+⚠  June's ₦24.3M is the lowest month — if this is the start of a downward trend rather than a seasonal dip, it needs immediate attention.
+⚠  Over-dependence on the Figures category — 1 in 3 revenue naira comes from a single category.
+⚠  No product differentiation makes the brand vulnerable if a competitor targets any single category.
+⚠  Dataset covers Jan–Jun 2024 only — a full-year view would strengthen these findings.
 
 # Immediate Next Steps
 
-Priority	Action	Owner
-🔴 High	Investigate June revenue decline — demand or supply side?	Sales & Operations
-🔴 High	Run stockout audit for Ibadan and Port Harcourt	Operations
-🔴 High	Commission Abuja market diagnostic	Regional Sales Lead
-🟡 Medium	Design bundling/pricing experiment across all 6 products	Product & Marketing
-🟡 Medium	Build category diversification plan to reduce Figures dependency	Strategy
-🟢 Low	Develop H2 demand calendar using H1 trend data	Analytics
+ Priority /	Action	/ Owner
+🔴 High /	Investigate June revenue decline; is it demand or supply side? /	Sales & Operations
+🔴 High	/ Run stockout audit for Ibadan and Port Harcourt /	Operations
+🔴 High	/ Commission Abuja market diagnostic /	Regional Sales Lead
+🟡 Medium	 / Design bundling/pricing experiment across all 6 products	/ Product & Marketing
+🟡 Medium	 / Build category diversification plan to reduce Figures dependency	/ Strategy
+🟢 Low	/ Develop H2 demand calendar using H1 trend data	/ Analytics
 
