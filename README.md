@@ -70,10 +70,10 @@ A controlled price increase on 1-2 products with inelastic demand could improve 
 
 # Immediate Next Steps
 
-Priority                             Action                                        Owner        
-- High       Investigate june revenue decline - demand or supply side?               Sales & Operations
-- High       Run stockout audit for ibadan and Port harcourt                         Operations
-- High       Commission Abuja market diagnostic                                      Regional Sales Lead
-- Medium     Design bundling/pricing experiment across all 6 products                Product & Marketing
-- Medium     Build category diversification plan to reduce Figures dependency        Strategy
-- Low        Develop H2 demand calendar using H1 trend data                          Analytics
+Priority                             Action                                             Owner        
+- High       Investigate june revenue decline - demand or supply side?               - Sales & Operations
+- High       Run stockout audit for ibadan and Port harcourt                         - Operations
+- High       Commission Abuja market diagnostic                                      - Regional Sales Lead
+- Medium     Design bundling/pricing experiment across all 6 products                - Product & Marketing
+- Medium     Build category diversification plan to reduce Figures dependency        - Strategy
+- Low        Develop H2 demand calendar using H1 trend data                          - Analytics
